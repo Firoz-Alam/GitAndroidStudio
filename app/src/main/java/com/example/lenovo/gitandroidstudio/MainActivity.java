@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("MyTag","Messege");
         Log.i("MyTag","Messege");
+        Log.i("MyTag","Messege");
     }
 }
